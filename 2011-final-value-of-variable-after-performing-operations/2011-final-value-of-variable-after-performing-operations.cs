@@ -2,10 +2,7 @@ public class Solution {
     public int FinalValueAfterOperations(string[] operations) {
         int X = 0;
         for(int i = 0;i<operations.Length;i++){
-            if(operations[i] == "++X" || operations[i] == "X++") X++;
-            else{
-                X--;
-            }
+            X += 44 - operations[i][1];
         }
         return X;
     }
