@@ -17,8 +17,17 @@ public class MyHashSet {
     }
     
     public bool Contains(int key) {
-        foreach(var keys in this.container){
-            if(keys == key) return true;
+        this.container.Sort();
+        int left = 0, right = this.container.Count-1;
+        while(left <= right){
+            int mid = (left+right)/2;
+            if(this.container[mid] == key){
+                return true;
+            }else if(this.container[mid] > key){
+                right = mid - 1;
+            }else{
+                left = mid + 1;
+            }
         }
         return false;
     }
