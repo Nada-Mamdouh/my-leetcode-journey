@@ -1,35 +1,23 @@
 public class MyHashSet {
-    List<int> container;
+    bool[] container;
     public MyHashSet() {
-        container = new List<int>();
+        container = new bool[1000001];
     }
     
     public void Add(int key) {
         if(!this.Contains(key)){
-            container.Add(key);
+            container[key] = true;
         }
     }
     
     public void Remove(int key) {
         if(this.Contains(key)){
-            container.Remove(key);
+            container[key] = false;
         }
     }
     
     public bool Contains(int key) {
-        this.container.Sort();
-        int left = 0, right = this.container.Count-1;
-        while(left <= right){
-            int mid = (left+right)/2;
-            if(this.container[mid] == key){
-                return true;
-            }else if(this.container[mid] > key){
-                right = mid - 1;
-            }else{
-                left = mid + 1;
-            }
-        }
-        return false;
+        return container[key];
     }
 }
 
