@@ -1,11 +1,8 @@
 public class Solution {
     public int ScoreOfString(string s) {
-        int i = 0, j = 1, score = 0;
-        while(i < s.Length && j<s.Length){
-            int tmp = Math.Abs(s[i] - s[j]);
-            score += tmp;
-            i++;
-            j++;
+        int score = 0;
+        for(int i = 0;i<s.Length-1;i++){
+            score += Math.Abs(s[i] - s[i+1]);
         }
         return score;
     }
