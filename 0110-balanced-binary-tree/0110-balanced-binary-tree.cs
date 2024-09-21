@@ -17,8 +17,8 @@ public class Solution {
         if(root == null) return true;
         int leftHeight = calcDepth(root.left);
         int rightHeight = calcDepth(root.right);
-        if(Math.Abs(leftHeight - rightHeight) <= 1 && flag == true) return true;
-        return false;
+        return Math.Abs(leftHeight - rightHeight) <= 1 && flag == true;
+       
     }
     public int calcDepth(TreeNode root){
         if(root == null) return 0;
