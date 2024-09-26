@@ -9,7 +9,6 @@
  */
 
 public class Solution {
-    Dictionary<TreeNode, HashSet<TreeNode>> dict = new();
     public TreeNode LowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if(root != null && p.val < root.val && q.val < root.val){
             return LowestCommonAncestor(root.left, p, q);
