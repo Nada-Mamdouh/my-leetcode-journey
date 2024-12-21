@@ -1,25 +1,21 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        //Better solution
-        //TC: O(2n)
+        //Optimal solution 
+        //Using Dutch National flag
         int n = nums.size();
-        int countZ = 0, countO = 0, countT = 0;
-        for(int i = 0;i<n;i++){
-            if(nums[i] == 0) countZ++;
-            else if(nums[i] == 1) countO++;
-            else{
-                countT++;
+        int low = 0, mid = 0, high = n-1;
+        while(mid<=high){
+            if(nums[mid] == 0){
+                swap(nums[low], nums[mid]);
+                low++;
+                mid++;
+            }else if(nums[mid] == 1){
+                mid++;
+            }else{
+                swap(nums[high], nums[mid]);
+                high--;
             }
-        }
-        for(int i = 0;i<countZ;i++){
-            nums[i] = 0;
-        }
-        for(int i = countZ; i<countZ+countO;i++){
-            nums[i] = 1;
-        }
-        for(int i = countZ + countO ; i<n;i++){
-            nums[i] = 2;
         }
     
     }
