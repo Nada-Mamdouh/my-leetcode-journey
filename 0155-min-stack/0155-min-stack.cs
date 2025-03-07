@@ -20,8 +20,8 @@ public class MinStack {
         if(st.Count == 0) return;
         else{
             long x = st.Pop();
-            if(x < mini){
-                mini = 2*mini - x;
+            if(mini > x){
+                mini = 2 * mini - x;
             }
         }
     }
@@ -29,9 +29,9 @@ public class MinStack {
     public int Top() {
         if(st.Count == 0) return -1;
         else{
-            long u = st.Peek();
-            if(mini <  u) return (int)u;
-            else return (int)mini;
+            long x = st.Peek();
+            if(mini < x) return (int)x;
+            else return (int) mini;
         }
     }
     
