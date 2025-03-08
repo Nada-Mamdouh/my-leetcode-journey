@@ -1,26 +1,23 @@
 public class Solution {
     public int[] NextGreaterElement(int[] nums1, int[] nums2) {
-        //monotonic increasing stack:
-        Dictionary<int,int> nextGreater = new Dictionary<int,int>();
+        int len1 = nums1.Length, len2 = nums2.Length;
+        int[] ans = new int[len1];
         Stack<int> mono = new Stack<int>();
-        int[] arr = new int[nums1.Length];
-        
-        mono.Push(nums2[0]);
-        for(int i = 1;i<nums2.Length;i++){
-            while(mono.Count > 0 && mono.Peek() < nums2[i]){
-                int curr = mono.Pop();
-                nextGreater.Add(curr, nums2[i]);
+        Dictionary<int, int> dict = new();
+        for(int i = len2 -1;i>=0;i--){
+            while(mono.Count != 0 && mono.Peek() <= nums2[i]){
+                mono.Pop();
+            }
+            if(mono.Count == 0) dict[nums2[i]] = -1;
+            else{
+                dict[nums2[i]] = mono.Peek();
             }
             mono.Push(nums2[i]);
+        };
+        for(int i = 0;i<len1;i++){
+            ans[i] = dict[nums1[i]];
         }
-        for(int i = 0;i<nums1.Length;i++){
-            if(nextGreater.ContainsKey(nums1[i])){
-                arr[i] = nextGreater[nums1[i]];
-            }else{
-                arr[i] = -1;
-            }
-            
-        }
-        return arr;
+        return ans;
+
     }
 }
