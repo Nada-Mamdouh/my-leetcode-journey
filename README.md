@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +26,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
