@@ -1,21 +1,19 @@
 public class Solution {
     public int[] NextGreaterElements(int[] nums) {
-        //Brute force:
-        //TC: O(n^2) + O(n) - SC: O(n) for returning the result
-        int n = nums.Length;
-        int[] ans = new int[n];
-        for(int i = 0; i<n;i++){
-            ans[i] = -1;
-        }
-        for(int i = 0;i < n;i++){
-            for(int j = i + 1; j <= (i + n - 1);j++){
-                int idx = j % n;
-                if(nums[i] < nums[idx]){
-                    ans[i] = nums[idx];
-                    break;
-                }
-            }
-        }
-        return ans;
+       //Optimal approach using monotonic stack
+       //Assume that we doubled the array
+       int n = nums.Length;
+       int[] ans = new int[n];
+       Stack<int> mono = new();
+       for(int i = 2 * n - 1;i>=0;i--){
+          while(mono.Count != 0 && mono.Peek() <= nums[i % n]){
+            mono.Pop();
+          }
+          if(i < n){
+            ans[i] = mono.Count == 0? -1:mono.Peek();
+          }
+          mono.Push(nums[i % n]);
+       }
+       return ans;
     }
 }
