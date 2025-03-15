@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0735-asteroid-collision) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1072-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0735-asteroid-collision) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1072-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0503-next-greater-element-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1072-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -45,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
