@@ -1,7 +1,7 @@
 public class Solution {
     public string RemoveKdigits(string num, int k) {
         Stack<char> st = new();
-        //Normal traversal
+        //Normal traversal - 1- TC: O(n)
         for(int i = 0;i<num.Length;i++){
             while(st.Count > 0 && k> 0 && st.Peek()-'0' > num[i]-'0'){
                 st.Pop();
@@ -11,6 +11,8 @@ public class Solution {
         }
         //If the elements were sorted ascending and no removal happenend
         //Then remove the greatest values from TOS
+
+        //2 - TC: O(k)
         while(k > 0 && st.Count > 0){
             st.Pop();
             k--;
@@ -20,13 +22,15 @@ public class Solution {
             return "0";
         }
         //group characters together
+        //3- TC: O(n)
         char[] ans = new char[st.Count];
         int j = 0;
         while(st.Count > 0){
             ans[j++] = st.Pop();
         }
-        
+        //4- TC: O(n-k)
         Reverse(ref ans);
+        //5- TC: O(n-k)
         string val = new String(ans);
         for(int i = 0;i<ans.Length;i++){
             if(ans[i] != '0'){
