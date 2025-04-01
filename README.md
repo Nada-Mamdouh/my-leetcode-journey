@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0402-remove-k-digits) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String Matching
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
