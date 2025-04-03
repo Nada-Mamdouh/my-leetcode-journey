@@ -47,11 +47,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0402-remove-k-digits) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -89,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0920-uncommon-words-from-two-sentences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
