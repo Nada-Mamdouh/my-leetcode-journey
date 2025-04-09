@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1072-next-greater-node-in-linked-list) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
