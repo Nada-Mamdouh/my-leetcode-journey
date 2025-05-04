@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1072-next-greater-node-in-linked-list) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1034-subarrays-with-k-different-integers) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2442-number-of-arithmetic-triplets) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1034-subarrays-with-k-different-integers) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
