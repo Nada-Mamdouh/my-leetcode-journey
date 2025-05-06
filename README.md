@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2048-build-array-from-permutation](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2048-build-array-from-permutation) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2442-number-of-arithmetic-triplets) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0735-asteroid-collision) |
+| [2048-build-array-from-permutation](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2048-build-array-from-permutation) |
 | [2470-removing-stars-from-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
