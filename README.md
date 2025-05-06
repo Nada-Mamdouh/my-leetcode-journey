@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0966-binary-subarrays-with-sum) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
