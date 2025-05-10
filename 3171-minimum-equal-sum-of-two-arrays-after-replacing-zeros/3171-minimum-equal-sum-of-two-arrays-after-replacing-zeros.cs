@@ -3,14 +3,14 @@ public class Solution {
         //TC: O(n+m)
         int zeros1 = 0, zeros2 = 0;
         long sum1 = 0, sum2 = 0;
-        foreach(var num in nums1){
+        foreach(int num in nums1){
             sum1 += num;
             if(num == 0){
                 zeros1++;
                 sum1++;
             }
         }
-        foreach(var num in nums2){
+        foreach(int num in nums2){
             sum2 += num;
             if(num == 0){
                 zeros2++;
