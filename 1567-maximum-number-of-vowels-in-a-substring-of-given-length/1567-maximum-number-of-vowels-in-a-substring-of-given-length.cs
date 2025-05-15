@@ -1,29 +1,17 @@
 public class Solution {
     public int MaxVowels(string s, int k) {
-        //elmafrod fixed sliding window mushawaha
-        //TC: O(n)
-        //SC: O(count of vowels)
-        int n = s.Length, maxVowels = 0;
+        //TC:O(n/k) - SC:O(1)
+        int vowlCnt = 0, maxCnt = 0;
         for(int i = 0;i<k;i++){
-            if(IsVowel(s[i])){
-                maxVowels++;
-            }
+            if(IsVowel(s[i])) vowlCnt++;
         }
-        int windowVowels = maxVowels;
-        for(int i = k;i<n;i++){
-            if(IsVowel(s[i])){
-                windowVowels++;
-            }
-            if(IsVowel(s[i-k])){
-                windowVowels--;
-            }
-            maxVowels = Math.Max(maxVowels, windowVowels);
+        maxCnt = vowlCnt;
+        for(int i = k;i<s.Length;i++){
+            if(IsVowel(s[i-k])) vowlCnt--;
+            if(IsVowel(s[i])) vowlCnt++;
+            maxCnt = Math.Max(maxCnt,vowlCnt);
         }
-        
-        return maxVowels;
+        return maxCnt;
     }
-    public bool IsVowel(char c){
-        HashSet<char> set = new HashSet<char>(){'a','e','i','o','u'};
-        return set.Contains(c);
-    }
+    public bool IsVowel(char c) => c == 'a' || c == 'e' ||c== 'i' || c == 'o' || c == 'u';
 }
