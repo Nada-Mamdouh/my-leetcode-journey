@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2048-build-array-from-permutation) |
 | [2470-removing-stars-from-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2470-removing-stars-from-a-string) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0657-robot-return-to-origin](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0657-robot-return-to-origin) |
 | [0868-push-dominoes](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
