@@ -1,19 +1,20 @@
 public class Solution {
     public int NumberOfSubarrays(int[] nums, int k) {
-        return NumberOfSub(nums, k) - NumberOfSub(nums, k-1);
+        return findCnt(nums, k) - findCnt(nums, k-1);
     }
-    int NumberOfSub(int[] nums, int k){
+    int findCnt(int[] nums, int k){
         if(k < 0) return 0;
-        int l = 0, r = 0, sum = 0,cnt = 0;
-        while(r < nums.Length){
-            sum += (nums[r] % 2);
-            while(sum > k){
-                sum -= (nums[l] % 2);
+        int n = nums.Length, l = 0, r = 0, numOfOdds = 0, niceSubCnt = 0;
+        while(r < n){
+            if((nums[r] & 1) == 1)numOfOdds++;
+            while(numOfOdds > k){
+                if((nums[l] & 1) == 1) numOfOdds--;
                 l++;
             }
-            cnt = cnt + (r - l + 1);
+            if(numOfOdds <= k) niceSubCnt += (r - l + 1);
             r++;
         }
-        return cnt;
+        return niceSubCnt;
     }
+
 }
