@@ -1,14 +1,15 @@
 public class Solution {
     public int MaximumDifference(int[] nums) {
-        int n = nums.Length, maxDiff = -1;
-        for(int i = 0;i<n;i++){
-            for(int j = i + 1;j<n;j++){
-                if(j > i && nums[j] > nums[i]){
-                    maxDiff = Math.Max(maxDiff, (nums[j] - nums[i]));
-                }
+        int minSoFar = nums[0];
+        int diff = -1;
+        for(int i = 1;i<nums.Length;i++){
+            if(nums[i] > minSoFar){
+                diff = Math.Max(diff, nums[i] - minSoFar);
+            }
+            if(nums[i] < minSoFar){
+                minSoFar = nums[i];
             }
         }
-        return maxDiff;
-
+        return diff;
     }
 }
