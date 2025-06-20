@@ -1,16 +1,21 @@
 public class Solution {
     public int SumOddLengthSubarrays(int[] arr) {
+        int n = arr.Length;
+        int[] prefix = new int[n + 1];
+        prefix[0] = 0;
+
+        // Build prefix sum array
+        for (int i = 0; i < n; i++) {
+            prefix[i + 1] = prefix[i] + arr[i];
+        }
+
         int total = 0;
-        for(int i = 0;i<arr.Length;i++){
-            for(int j = i;j<arr.Length;j++){
-                int len = (j - i + 1);
-                int summ = 0;
-                if((len & 1) == 1){
-                    for(int k = i; k<=j;k++){
-                        summ += arr[k];
-                    }
-                    total += summ;
-                }
+
+        // Iterate over all possible odd lengths
+        for (int length = 1; length <= n; length += 2) {
+            for (int start = 0; start + length <= n; start++) {
+                int end = start + length;
+                total += prefix[end] - prefix[start];
             }
         }
 
