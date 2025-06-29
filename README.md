@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
@@ -247,4 +248,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3637-count-number-of-balanced-permutations) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
