@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2442-number-of-arithmetic-triplets) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3321-type-of-triangle) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sliding Window
 |  |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1983-maximum-population-year](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1983-maximum-population-year) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Counting
 |  |
 | ------- |
@@ -222,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2215-finding-3-digit-even-numbers) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3321-type-of-triangle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
