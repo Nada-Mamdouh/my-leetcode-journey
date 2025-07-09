@@ -1,17 +1,14 @@
 public class Solution {
     public int SubarraySum(int[] nums, int k) {
-        int prefixSum = 0, cnt = 0, n = nums.Length;
-        Dictionary<int, int> dict = new();
+        int n = nums.Length, cnt = 0, pre = 0;
+        Dictionary<int,int> dict = new();
+        //dict.Add(0,1);
         for(int i = 0;i<n;i++){
-            if(!dict.ContainsKey(prefixSum)){
-                dict.Add(prefixSum, 0);
-            }
-            dict[prefixSum]++;
-            prefixSum += nums[i];
-            int remove = prefixSum - k;
-            if(dict.ContainsKey(remove)){
-                cnt += dict[remove];
-            }
+           if(!dict.ContainsKey(pre)) dict.Add(pre,0);
+           dict[pre]++;
+           pre += nums[i];
+           int val = pre - k;
+           if(dict.ContainsKey(val)) cnt += dict[val];
         }
 
         return cnt;
