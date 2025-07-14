@@ -5,7 +5,7 @@ public class Solution : VersionControl {
     public int FirstBadVersion(int n) {
         int low = 1, high = n;
         while(low < high){
-            int mid = low + (high - low)/2;
+            int mid = low + (high - low) / 2;
             if(IsBadVersion(mid)){
                 high = mid;
             }else{
