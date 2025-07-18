@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0018-4sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2048-build-array-from-permutation) |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
