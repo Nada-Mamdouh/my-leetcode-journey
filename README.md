@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0162-find-peak-element) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0367-valid-perfect-square) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
