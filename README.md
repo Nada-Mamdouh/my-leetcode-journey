@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1205-defanging-an-ip-address](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
