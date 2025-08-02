@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0238-product-of-array-except-self) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
@@ -304,4 +306,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1013-fibonacci-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1236-n-th-tribonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
