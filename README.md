@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1983-maximum-population-year](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2195-time-needed-to-buy-tickets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2442-number-of-arithmetic-triplets) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2048-build-array-from-permutation) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2195-time-needed-to-buy-tickets) |
 | [2470-removing-stars-from-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
@@ -310,4 +312,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0078-subsets) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
