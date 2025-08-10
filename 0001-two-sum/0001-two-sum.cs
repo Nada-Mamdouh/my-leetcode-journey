@@ -1,21 +1,10 @@
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
-        Dictionary<int,int> dict = new Dictionary<int,int>();
-        int[] res = new int[2];
         for(int i = 0;i<nums.Length;i++){
-            int complement = target - nums[i];
-            if(dict.ContainsKey(complement)){
-                res[0] = dict[complement];
-                res[1] = i;
-                break;
-            }
-            
-            
-            
-            if(!dict.ContainsKey(nums[i])){
-                dict.Add(nums[i],i);
+            for(int j = i + 1;j<nums.Length;j++){
+                if(nums[i] + nums[j] == target) return new int[]{i,j};
             }
         }
-        return res;
+        return new int[] {0,0};
     }
 }
