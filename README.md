@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0054-spiral-matrix) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
