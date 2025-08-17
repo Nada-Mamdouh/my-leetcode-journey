@@ -1,19 +1,22 @@
 public class Solution {
     IList<IList<int>> ans = new List<IList<int>>();
     public IList<IList<int>> CombinationSum(int[] candidates, int target) {       
-        findCombinationSum(ref candidates, target, 0 , new List<int>() );
+        findCombination(ref candidates, target, 0, new List<int>());
         return ans;
     }
-    void findCombinationSum(ref int[] cand, int target, int idx, List<int> ds){
-        if(idx == cand.Length){
+    void findCombination(ref int[] candidates, int target, int indx , List<int> ds){
+        if(indx == candidates.Length){
             if(target == 0) ans.Add(new List<int>(ds));
             return;
         }
-        if(cand[idx] <= target){
-            ds.Add(cand[idx]);
-            findCombinationSum(ref cand, target - cand[idx], idx, ds);
+        //pick
+        if(candidates[indx] <= target){
+            ds.Add(candidates[indx]);
+            findCombination(ref candidates, target - candidates[indx], indx, ds);
             ds.RemoveAt(ds.Count - 1);
         }
-        findCombinationSum(ref cand, target, idx + 1,ds);
+        //not pick
+        findCombination(ref candidates, target, indx + 1, ds);
     }
+    
 }
