@@ -9,17 +9,15 @@ public class Solution {
             res.Add(new List<int>(ds));
             return;
         }
-        for(int i = 0; i<nums.Length;i++){
+        for(int i = 0;i<nums.Length;i++){
             if(!freq[i]){
                 freq[i] = true;
                 ds.Add(nums[i]);
-
                 GeneratePermutations(ref nums, ds, freq);
+
                 ds.RemoveAt(ds.Count - 1);
                 freq[i] = false;
             }
         }
-        
-        
     }
 }
