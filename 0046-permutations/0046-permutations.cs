@@ -7,11 +7,7 @@ public class Solution {
     }
     void GeneratePermutations(ref int[] nums, int idx){
         if(idx == nums.Length){
-            List<int> ds = new();
-            for(int i = 0;i<nums.Length;i++){
-                ds.Add(nums[i]);
-            }
-            res.Add(new List<int>(ds));
+            res.Add(new List<int>(nums.ToList()));
             return;
         }
         for(int i = idx;i<nums.Length;i++){
