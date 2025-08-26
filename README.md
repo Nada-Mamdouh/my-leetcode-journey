@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0402-remove-k-digits) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1013-fibonacci-number) |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0131-palindrome-partitioning) |
 ## Queue
 |  |
 | ------- |
