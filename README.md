@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0155-min-stack) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
+| [0838-design-linked-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0838-design-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0838-design-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1072-next-greater-node-in-linked-list) |
 ## Greedy
 |  |
