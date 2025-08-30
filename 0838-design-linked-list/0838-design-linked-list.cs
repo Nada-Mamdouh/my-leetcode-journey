@@ -8,10 +8,6 @@ public class MyLinkedList {
     }
     
     public int Get(int index) {
-        for(int i = 0;i<size;i++){
-            Console.WriteLine(arr[i]);
-        }
-        Console.WriteLine(size + " " + index);
         if(size == 0 || index >= size) return -1;
         return arr[index];
     }
@@ -30,9 +26,7 @@ public class MyLinkedList {
             for(int i = size;i > index;i--){
                 arr[i] = arr[i-1];
             }
-            Console.WriteLine("Position "+ index + " before inserting"+arr[index]);
             arr[index] = val;
-            Console.WriteLine("Position "+ index + " after inserting"+arr[index]);
             size++;
         }
     }
@@ -42,7 +36,6 @@ public class MyLinkedList {
             for(int i = index; i<size-1;i++){
                 arr[i] = arr[i+1];
             }
-            Console.WriteLine("After delete " + arr[index]);
             size--;
             if(size != 0 && capacity > 1 && size == capacity/4) resize(capacity / 2);
         }
