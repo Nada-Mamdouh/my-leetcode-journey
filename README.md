@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0046-permutations) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0409-longest-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0496-next-greater-element-i) |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
@@ -326,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0046-permutations) |
