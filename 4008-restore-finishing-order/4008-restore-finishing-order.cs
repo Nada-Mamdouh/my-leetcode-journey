@@ -1,18 +1,22 @@
 public class Solution {
     public int[] RecoverOrder(int[] order, int[] friends) {
-        HashSet<int> set = new HashSet<int>();
-        int[] ans = new int[friends.Length];
-        for(int i = 0;i<friends.Length;i++){
-            set.Add(friends[i]);
+        List<int> ans = new List<int>();
+        foreach(var item in order){
+            if(ans.Count == friends.Length) break;
+            int index = binarySearch(item, ref friends);
+            if(index < 0) continue;
+            ans.Add(friends[index]);
         }
-        int j = 0;
-        for(int i = 0;i<order.Length;i++){
-            if(set.Contains(order[i])){
-                if(j == friends.Length) break;
-                ans[j++] = order[i];
-            }
+        return ans.ToArray();
+    }
+    int binarySearch(int item, ref int[] friends){
+        int left = 0, right = friends.Length - 1;
+        while(left <= right){
+            int mid = (left + right)/2;
+            if(friends[mid] == item) return mid;
+            else if(friends[mid] > item) right = mid - 1;
+            else left = mid + 1;
         }
-        return ans;
-
+        return -1;
     }
 }
