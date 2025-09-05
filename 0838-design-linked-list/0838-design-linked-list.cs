@@ -1,55 +1,121 @@
+public class Node{
+    public int Val {get;set;}
+    public Node Next {get;set;}
+    public Node(int val){
+        Val = val;
+        Next = null;
+    }
+}
 public class MyLinkedList {
-    int[] arr;
-    int size;
-    int capacity = 1;
+    Node _head; //dummy head
+    Node _tail; //real tail
+    int _size;
     public MyLinkedList() {
-        arr = new int[capacity];
-        size = 0;
+        //dummy head
+        _head = new Node(0);
+        _tail = _head;
+        _size = 0;
+
     }
     
     public int Get(int index) {
-        if(size == 0 || index >= size) return -1;
-        return arr[index];
+        if(index < 0 || index >= _size) return -1;
+        Node curr = _head;
+        for(int i = 0;i <= index;i++){
+            curr = curr.Next;
+        }
+        return curr.Val;
     }
     
     public void AddAtHead(int val) {
-        AddAtIndex(0, val);
+        Node newNode = new Node(val);
+        if(_size == 0){
+            _head.Next = newNode;
+            _tail = newNode;
+        }else{
+            newNode.Next = _head.Next;
+            _head.Next = newNode;
+        }
+        _size++;
     }
     
     public void AddAtTail(int val) {
-        AddAtIndex(size, val);
+        Console.WriteLine("tail " + _tail.Val);
+        Console.WriteLine("size before adding to tail "+_size);
+        Node newNode = new Node(val);
+        _tail.Next = newNode;
+        _tail = newNode;
+        _size++;
     }
     
     public void AddAtIndex(int index, int val) {
-        if(size == capacity) resize(capacity * 2);
-        if(index < capacity){
-            for(int i = size;i > index;i--){
-                arr[i] = arr[i-1];
+        if(index < 0 || index > _size) return;
+        if(index == _size){
+            AddAtTail(val);
+        }else if(index == 0) AddAtHead(val);
+        else{
+            Node newNode = new Node(val);
+            Node prev = _head;
+            for(int i = 0;i<index;i++){
+                prev = prev.Next;
             }
-            arr[index] = val;
-            size++;
+            newNode.Next = prev.Next;
+            prev.Next = newNode;
+            _size++;
         }
     }
     
     public void DeleteAtIndex(int index) {
-        if(index >= 0 && index < size){
-            for(int i = index; i<size-1;i++){
-                arr[i] = arr[i+1];
+        Console.WriteLine("siz is when delete "+_size);
+        if(index < 0 || index > _size) return;
+        else if(index == 0) deleteAtHead();
+        else if(index == _size - 1) deleteAtTail();
+        else if(index > 0 && index < _size){
+            Node prev = _head;
+            for(int i = 0;i<index;i++){
+                prev = prev.Next;
             }
-            size--;
-            if(size != 0 && capacity > 1 && size == capacity/4) resize(capacity / 2);
+            Node ToBeDeleted = prev.Next;
+            prev.Next = prev.Next.Next;
+            ToBeDeleted.Next = null;
+            _size--; 
         }
-        
+        Console.WriteLine("siz after delete "+_size);
     }
-    void resize(int newCapacity){
-        int[] newArr = new int[newCapacity];
-        for(int i = 0;i<size;i++){
-            newArr[i] = arr[i];
+    private int GetAtTail(){
+        return _tail.Val;
+    }
+    private void deleteAtTail(){
+        if(_size != 0){
+            Node prev = _head;
+            while(prev.Next != _tail){
+                prev = prev.Next;
+            }
+            prev.Next = null;
+            _tail = prev;
+            _size--;
         }
-        capacity = newCapacity;
-        arr = newArr;
     }
-    private bool IsEmpty() => size == 0;
+    private void deleteAtHead(){
+        if(_size == 0) return;
+        if(_size == 1){
+            _head.Next = null;
+            _tail = _head;
+        }else{
+            Node nodetobed = _head.Next;
+            _head.Next = _head.Next.Next;
+            nodetobed.Next = null;
+        }
+        _size--;
+    }
+    private void printList(){
+        Node curr = _head;
+        while(curr != null){
+            Console.Write(curr.Val + " -> ");
+            curr = curr.Next;
+        }
+        Console.WriteLine("==================");
+    }
 }
 
 /**
