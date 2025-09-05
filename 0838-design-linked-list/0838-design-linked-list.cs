@@ -40,8 +40,6 @@ public class MyLinkedList {
     }
     
     public void AddAtTail(int val) {
-        Console.WriteLine("tail " + _tail.Val);
-        Console.WriteLine("size before adding to tail "+_size);
         Node newNode = new Node(val);
         _tail.Next = newNode;
         _tail = newNode;
@@ -66,7 +64,6 @@ public class MyLinkedList {
     }
     
     public void DeleteAtIndex(int index) {
-        Console.WriteLine("siz is when delete "+_size);
         if(index < 0 || index > _size) return;
         else if(index == 0) deleteAtHead();
         else if(index == _size - 1) deleteAtTail();
@@ -80,7 +77,6 @@ public class MyLinkedList {
             ToBeDeleted.Next = null;
             _size--; 
         }
-        Console.WriteLine("siz after delete "+_size);
     }
     private int GetAtTail(){
         return _tail.Val;
@@ -107,14 +103,6 @@ public class MyLinkedList {
             nodetobed.Next = null;
         }
         _size--;
-    }
-    private void printList(){
-        Node curr = _head;
-        while(curr != null){
-            Console.Write(curr.Val + " -> ");
-            curr = curr.Next;
-        }
-        Console.WriteLine("==================");
     }
 }
 
