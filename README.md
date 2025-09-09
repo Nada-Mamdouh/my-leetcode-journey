@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2442-number-of-arithmetic-triplets) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2594-count-pairs-of-similar-strings) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2442-number-of-arithmetic-triplets) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2594-count-pairs-of-similar-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Monotonic Stack
 |  |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2470-removing-stars-from-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2470-removing-stars-from-a-string) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2594-count-pairs-of-similar-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3637-count-number-of-balanced-permutations) |
 | [3811-reverse-degree-of-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3811-reverse-degree-of-a-string) |
@@ -225,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1983-maximum-population-year](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1983-maximum-population-year) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2594-count-pairs-of-similar-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
@@ -315,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2594-count-pairs-of-similar-strings) |
 ## Recursion
 |  |
 | ------- |
