@@ -1,17 +1,24 @@
 public class Solution {
     public int[] DailyTemperatures(int[] temperatures) {
-        int len = temperatures.Length;
-        int[] res = new int[len];
-        Stack<int> monotonus = new Stack<int>();
-        for(int i = 0;i<len;i++){
-            while(monotonus.Count >0 && 
-                  temperatures[i] > temperatures[monotonus.Peek()]){
-                int idx = monotonus.Pop();
-                res[idx] = i - idx;
+        var answer = new int[temperatures.Length];
+        var hottest = 0;
+        for (var i = temperatures.Length - 1; i >= 0; i--)
+        {
+            var cur = temperatures[i];
+            if (cur >= hottest)
+            {
+                hottest = cur;
+                continue;
             }
-            monotonus.Push(i);
+
+            var days = 1;
+            while (temperatures[i + days] <= cur)
+            {
+                days += answer[i + days];
+            }
+            answer[i] = days;
         }
-        return res;
-        
+
+        return answer;
     }
 }
