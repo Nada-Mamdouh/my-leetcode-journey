@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0455-assign-cookies](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0455-assign-cookies) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0037-sudoku-solver) |
+| [0217-contains-duplicate](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0496-next-greater-element-i) |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0018-4sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0594-longest-harmonious-subsequence) |
