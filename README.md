@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0392-is-subsequence) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1013-fibonacci-number) |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
