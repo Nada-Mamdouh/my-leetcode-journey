@@ -1,7 +1,7 @@
 public class NumArray {
     int[] Nums;
-    int[] prefix_sum;
     int n;
+    int[] prefix_sum;
     public NumArray(int[] nums) {
         Nums = nums;
         n = nums.Length;
@@ -18,9 +18,6 @@ public class NumArray {
         for(int i = 0;i<n;i++){
             summ+=Nums[i];
             prefix_sum[i] = summ;
-        }
-        foreach(var item in prefix_sum){
-            Console.WriteLine(item);
         }
     }
 
