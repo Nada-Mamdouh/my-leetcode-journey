@@ -1,13 +1,10 @@
 public class Solution {
     public int TriangularSum(int[] nums) {
-        List<int> current = new List<int>(nums);
-        while (current.Count > 1) {
-            List<int> newNums = new List<int>();
-            for (int i = 0; i < current.Count - 1; ++i) {
-                newNums.Add((current[i] + current[i + 1]) % 10);
+        for(int i = nums.Length;i > 1 ;i--){
+            for (int j = 1; j < i; ++j) {
+                nums[j-1] = (nums[j-1] + nums[j])%10;
             }
-            current = newNums;
         }
-        return current[0];
+        return nums[0];
     }
 }
