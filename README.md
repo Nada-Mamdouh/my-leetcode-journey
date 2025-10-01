@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2048-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2195-time-needed-to-buy-tickets) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1642-water-bottles](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2481-strictly-palindromic-number) |
