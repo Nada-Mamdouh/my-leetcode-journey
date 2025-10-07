@@ -1,18 +1,19 @@
 public class Solution {
     public int MajorityElement(int[] nums) {
-        Dictionary<int, int> dict = new Dictionary<int,int>();
-        int result = 0;
-        foreach(var ele in nums){
-            if(dict.ContainsKey(ele)) dict[ele]++;
-            else{
-                dict.Add(ele, 1);
+        int n = nums.Length, maxCnt = 0, majority = 0;
+        var dict = new Dictionary<int,int>();
+        for(int i = 0;i<n;i++){
+            if(!dict.ContainsKey(nums[i])){
+                dict.Add(nums[i],0);
+            }
+            dict[nums[i]]++;
+        }
+        foreach(var item in dict){
+            if(item.Value > maxCnt){
+                maxCnt = item.Value;
+                majority = item.Key;
             }
         }
-        foreach(var kvp in dict){
-            if(kvp.Value > nums.Length/2){
-                result = kvp.Key;
-            }
-        }
-        return result;
+        return majority;
     }
 }
