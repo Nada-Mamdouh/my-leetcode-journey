@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0303-range-sum-query-immutable) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1034-subarrays-with-k-different-integers) |
@@ -291,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0018-4sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0506-relative-ranks) |
@@ -373,4 +377,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2195-time-needed-to-buy-tickets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
