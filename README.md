@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0455-assign-cookies) |
 | [0868-push-dominoes](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0868-push-dominoes) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0409-longest-palindrome) |
