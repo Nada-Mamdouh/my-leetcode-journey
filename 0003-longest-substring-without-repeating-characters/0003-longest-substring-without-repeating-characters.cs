@@ -1,19 +1,17 @@
 public class Solution {
     public int LengthOfLongestSubstring(string s) {
-        int[] arr = new int[256];
-        for(int i = 0;i<arr.Length;i++){
-            arr[i] = -1;
-        }
-        int l = 0, r = 0, maxLen = 0, n = s.Length;
-        while(r < n){
-            if(arr[s[r]] != -1){
-                if(arr[s[r]] >= l){
-                    l = arr[s[r]] + 1;
+        int n = s.Length, maxLen = 0, l = 0, r = 0;
+        int[] hash = new int[256];
+        while(r < n && l < n && l <= r){
+            while(hash[s[r]] >= 1){
+                if(hash[s[l]] >= 1){
+                    hash[s[l]]--;
                 }
+                l++;
+                maxLen = Math.Max(maxLen, r - l + 1);
             }
-            int length = r - l + 1;
-            maxLen = Math.Max(maxLen, length);
-            arr[s[r]] = r;
+            hash[s[r]]++;
+            maxLen = Math.Max(maxLen, r - l + 1);
             r++;
         }
         return maxLen;
