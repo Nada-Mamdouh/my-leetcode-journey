@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-number-of-arithmetic-triplets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2442-number-of-arithmetic-triplets) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2594-count-pairs-of-similar-strings) |
+| [2737-row-with-maximum-ones](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2737-row-with-maximum-ones) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
+| [2737-row-with-maximum-ones](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2737-row-with-maximum-ones) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
