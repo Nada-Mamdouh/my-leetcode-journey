@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0125-valid-palindrome) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0070-climbing-stairs) |
