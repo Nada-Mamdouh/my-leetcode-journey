@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1983-maximum-population-year](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1983-maximum-population-year) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2195-time-needed-to-buy-tickets) |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2481-strictly-palindromic-number) |
 | [3321-type-of-triangle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3321-type-of-triangle) |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2442-number-of-arithmetic-triplets) |
 ## Graph
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3637-count-number-of-balanced-permutations) |
 ## Interactive
@@ -360,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2594-count-pairs-of-similar-strings) |
 ## Recursion
 |  |
@@ -383,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0131-palindrome-partitioning) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Queue
 |  |
 | ------- |
