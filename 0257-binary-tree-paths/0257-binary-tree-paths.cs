@@ -13,35 +13,19 @@
  */
 public class Solution {
     IList<string> ans = new List<string>();
-    List<int> lst = new List<int>();
     public IList<string> BinaryTreePaths(TreeNode root) {
-        BackTrack(root, root);
+        if(root == null) return ans;
+        BackTrack(root, "");
         return ans;
     }
-    void BackTrack(TreeNode curr, TreeNode root){
+    void BackTrack(TreeNode curr, string path){
         if(curr == null) return;
+        if(path.Length != 0) path += "->";
+        path += curr.val;
         if(curr.left == null && curr.right == null) {
-            lst.Add(curr.val);
-            ans.Add(mapListToString(lst));
-            lst.RemoveAt(lst.Count - 1);
-            return;
+            ans.Add(path);
         }
-        lst.Add(curr.val);
-        BackTrack(curr.left, root);
-        BackTrack(curr.right, root);
-        lst.RemoveAt(lst.Count - 1);
-    }
-    string mapListToString(List<int> nums){
-        StringBuilder sb = new StringBuilder();
-        bool flag = true;
-        foreach(var num in nums){
-            if(flag){
-                sb.Append(num);
-                flag = false;
-            }else{
-                sb.Append("->"+num);
-            }
-        }
-        return sb.ToString();
+        BackTrack(curr.left, path);
+        BackTrack(curr.right, path);
     }
 }
