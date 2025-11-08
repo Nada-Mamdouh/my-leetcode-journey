@@ -13,37 +13,23 @@
  */
 public class Solution {
     public IList<IList<int>> LevelOrder(TreeNode root) {
-        Queue<TreeNode> currentLevelQ = new Queue<TreeNode>();
-        Queue<TreeNode> nextLevelQ = new Queue<TreeNode>();
-        IList<IList<int>> res = new List<IList<int>>();
-        
-        if(root == null) return res;
-        currentLevelQ.Enqueue(root);
-        
-        while(currentLevelQ.Count > 0){
-            IList<int> subres = new List<int>();
-            
-            while(currentLevelQ.Count > 0){
-                TreeNode curr = currentLevelQ.Dequeue();
-                
-                if(curr.left != null){
-                    nextLevelQ.Enqueue(curr.left);
-                }
-                if(curr.right != null){
-                    nextLevelQ.Enqueue(curr.right);
-                }
-                subres.Add(curr.val);
+        var q = new Queue<TreeNode>();
+        IList<IList<int>> ans = new List<IList<int>>();
+        if(root == null) return ans;
+        q.Enqueue(root);
+
+        while(q.Count > 0){
+            int levelsize = q.Count;
+            List<int> level = new List<int>();
+            for(int i = 0;i<levelsize;i++){
+                TreeNode curr = q.Dequeue();
+                level.Add(curr.val);
+                if(curr.left != null) q.Enqueue(curr.left);
+                if(curr.right != null) q.Enqueue(curr.right);
             }
-            res.Add(subres);
-            
-            //swap:
-            Queue<TreeNode> tmp = currentLevelQ;
-            currentLevelQ = nextLevelQ;
-            nextLevelQ = tmp;
+            ans.Add(level);
         }
-        
-        
-        
-        return res;
+        return ans;
+
     }
 }
