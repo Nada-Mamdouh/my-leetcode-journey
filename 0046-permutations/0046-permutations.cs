@@ -1,24 +1,25 @@
 public class Solution {
-    //Another solution - no extra map
-    IList<IList<int>> res = new List<IList<int>>();
     public IList<IList<int>> Permute(int[] nums) {
-        GeneratePermutations(ref nums, 0);
-        return res;
+        var result = new List<IList<int>>();
+        Permute(nums, 0, result, new List<int>());
+        return result;
     }
-    void GeneratePermutations(ref int[] nums, int idx){
-        if(idx == nums.Length){
-            res.Add(new List<int>(nums.ToList()));
+
+    private void Permute(int[] nums, int index, List<IList<int>> result, List<int> current)
+    {
+        if (index == nums.Length)
+        {
+            result.Add(current.ToList());
             return;
         }
-        for(int i = idx;i<nums.Length;i++){
-            swap(ref nums, i, idx);
-            GeneratePermutations(ref nums, idx + 1);
-            swap(ref nums , i , idx);
+
+        var num = nums[index];
+        var count = current.Count;
+        for (var i = 0; i <= count; i++)
+        {
+            current.Insert(i, num);
+            Permute(nums, index+1, result, current);
+            current.RemoveAt(i);
         }
-    }
-    void swap(ref int[] nums, int i , int j){
-        int tmp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = tmp;
     }
 }
