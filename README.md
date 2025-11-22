@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2594-count-pairs-of-similar-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2594-count-pairs-of-similar-strings) |
 | [2737-row-with-maximum-ones](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2737-row-with-maximum-ones) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3321-type-of-triangle) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2481-strictly-palindromic-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3637-count-number-of-balanced-permutations) |
