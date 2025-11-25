@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0966-binary-subarrays-with-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1370-count-number-of-nice-subarrays) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1370-count-number-of-nice-subarrays) |
