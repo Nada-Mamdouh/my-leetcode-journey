@@ -1,11 +1,12 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        //O(nlogn)
-        sort(nums.begin(),nums.end());
+        //O(n)
+        int sm1 = 0, sm2 = 0, n = nums.size();
         for(int i = 0;i<nums.size();i++){
-            if(i != nums[i]) return i;
+            sm1 += nums[i];
         }
-        return nums.size();
+        sm2 = n * (n+1)/2;
+        return sm2 - sm1;
     }
 };
