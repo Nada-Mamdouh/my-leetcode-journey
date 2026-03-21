@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1642-water-bottles) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0657-robot-return-to-origin) |
 | [0868-push-dominoes](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0868-push-dominoes) |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1018-largest-perimeter-triangle) |
