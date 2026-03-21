@@ -20,20 +20,19 @@ public:
     int romanToInt(string s) {
         int n = s.size(), ans = 0;
         for(int i = 0;i<n;i++){
-            if(i != n-1 && getMinusOp(s[i], s[i+1]) != -1){
-                ans += getMinusOp(s[i],s[i+1]);
-                i++;
-            }else{
-                ans += mpp[s[i]];
+            if(i != n-1){
+                string conc = "";
+                conc += s[i];
+                conc += s[i+1];
+                if(min_mpp.count(conc) != 0){
+                    ans += min_mpp[conc];
+                    i++;
+                    continue;
+                }
             }
+            ans += mpp[s[i]];
         }
         return ans;
     }
-    int getMinusOp(char c1, char c2){
-        string conc = "";
-        conc += c1;
-        conc += c2;
-        if(min_mpp.count(conc) == 1)return min_mpp[conc];
-        return -1;
-    }
+
 };
