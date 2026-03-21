@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0217-contains-duplicate) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0125-valid-palindrome) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0268-missing-number) |
