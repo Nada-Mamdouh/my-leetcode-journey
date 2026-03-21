@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0035-search-insert-position) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0125-valid-palindrome) |
@@ -443,4 +445,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
