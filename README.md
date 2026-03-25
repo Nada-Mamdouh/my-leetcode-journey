@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0739-daily-temperatures) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1018-largest-perimeter-triangle) |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1018-largest-perimeter-triangle) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2215-finding-3-digit-even-numbers) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
