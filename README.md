@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0131-palindrome-partitioning) |
+| [0171-excel-sheet-column-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0367-valid-perfect-square) |
