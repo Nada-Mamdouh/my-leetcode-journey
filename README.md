@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0890-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0905-sort-array-by-parity) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0367-valid-perfect-square) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
