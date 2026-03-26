@@ -7,10 +7,7 @@ public:
             if(letters[mid] <= target) left = mid + 1;
             else right = mid;
         }
-        if(right < letters.size() && left < letters.size()){
-            cout<< letters[right] << " -> now left is at " << letters[left]<<endl;
-        }
-        
+ 
         if(right < letters.size() && letters[right] > target) return letters[right];
         else return letters[0];
     }
