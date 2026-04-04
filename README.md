@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1205-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1894-merge-strings-alternately) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sliding Window
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1034-subarrays-with-k-different-integers) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1983-maximum-population-year](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1983-maximum-population-year) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/2594-count-pairs-of-similar-strings) |
