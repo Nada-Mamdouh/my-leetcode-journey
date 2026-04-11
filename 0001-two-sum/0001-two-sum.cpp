@@ -1,21 +1,17 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        //Better 
-        //Time Complexity: O(nlogn)
-        //SC: O(n)
-        int n = nums.size();
-        map<int, int>mpp;
-        vector<int> ans(2,0);
-        for(int i = 0;i<n;i++){
-            int more = target - nums[i];
-            if(mpp.find(more) != mpp.end()){
-                ans[0] = mpp[more];
-                ans[1] = i;
+        unordered_map<long,int> mpp;
+        vector<int> v(2);
+        for(int i = 0;i<nums.size();i++){
+            long val = target - nums[i];
+            if(mpp.find(val) != mpp.end()){
+                v[0] = mpp[val];
+                v[1] = i;
                 break;
             }
-            mpp[nums[i]] = i;
+            mpp.insert({nums[i],i});
         }
-        return ans;
+        return v;
     }
 };
