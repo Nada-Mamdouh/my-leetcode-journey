@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0303-range-sum-query-immutable) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
