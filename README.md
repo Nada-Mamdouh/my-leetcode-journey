@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0966-binary-subarrays-with-sum) |
