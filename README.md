@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0838-design-linked-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0838-design-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1072-next-greater-node-in-linked-list) |
 ## Greedy
