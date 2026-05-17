@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0203-remove-linked-list-elements) |
 | [0838-design-linked-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0838-design-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1072-next-greater-node-in-linked-list) |
 ## Greedy
@@ -438,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Nada-Mamdouh/my-leetcode-journey/tree/master/1013-fibonacci-number) |
 ## Memoization
